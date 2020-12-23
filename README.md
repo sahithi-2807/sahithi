@@ -163,6 +163,4 @@ margin-top:6px;
            </div>
     </div>
   </div>
-</div>
-</body>
-</html>
+</div></body></html>
